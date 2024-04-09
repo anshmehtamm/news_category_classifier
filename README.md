@@ -5,12 +5,12 @@
 This project is an extension for the NewsSwipe app I built in January 2024. (checkout the app [here](https://appetize.io/app/bi3tse7tgin6xi63n46ywxikrq?device=iphone14pro&osVersion=17.2)). The main goal of this project is to categorize news articles into different categories. (e.g. sports, politics, technology, etc.) 
 
 
-I'm currently using different machine learning techniques and deep learning to achieve this goal. 
+I'm using different machine learning techniques and deep learning to achieve this goal. 
 
-Currently, I've only implemented a simple RNN model from scratch (using only pytorch), and achieving accuracy of 37% on the test set. 
+I've only implemented a simple RNN model from scratch (using only pytorch) till now, and achieving accuracy of 37% on the test set. 
 *[Currently: Investigating RNN, what is the pitfall to learning in the current implementation]*
 
-I'm planning to implement more complex models and techniques in the future while investigating the pitfalls of each model and documenting them.
+Planning to implement more complex models and techniques in the future while investigating the pitfalls of each model and documenting them.
 
 Planned models:
 - LSTM
