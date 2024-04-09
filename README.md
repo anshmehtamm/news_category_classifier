@@ -2,7 +2,7 @@
  Categorizing news topics using different DL techniqiues (extension for NewsSwipe app)
 
 ## Description
-This project is an extension for the NewsSwipe app (checkout the app here: ). The main goal of this project is to categorize news articles into different categories. (e.g. sports, politics, technology, etc.) 
+This project is an extension for the NewsSwipe app (checkout the app [here](https://appetize.io/app/bi3tse7tgin6xi63n46ywxikrq?device=iphone14pro&osVersion=17.2)). The main goal of this project is to categorize news articles into different categories. (e.g. sports, politics, technology, etc.) 
 
 
 I'm currently using different machine learning techniques and deep learning to achieve this goal. 
