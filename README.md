@@ -7,7 +7,7 @@ This project is an extension for the NewsSwipe app I built in January 2024. (che
 
 I'm using different machine learning techniques and deep learning to achieve this goal. 
 
-I've only implemented a simple RNN model and a LSTM model from scratch (using only pytorch) till now, and achieving accuracy of 83 and 86% respectively on the test dataset.
+I've only implemented a simple RNN model and a LSTM model from scratch (using only pytorch) till now, and achieving accuracy of 83% and 86% respectively on the test dataset.
 
 *[Currently: Investigating RNN and LSTM, what is the pitfall to learning in the current implementation]*
 
