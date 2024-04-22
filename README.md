@@ -15,7 +15,7 @@ Planning to implement more complex models and techniques in the future while inv
 
 Planned models:
 - BERT
-- GPT-2
+- GPT
 
 ## Dataset
 
